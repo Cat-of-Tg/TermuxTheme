@@ -10,7 +10,7 @@ echo "   |_   _| |_   _| | | | ____|  \/  | ____|"|lolcat
 echo "     | |_____| | | |_| |  _| | |\/| |  _|"  |lolcat
 echo "     | |_____| | |  _  | |___| |  | | |___" |lolcat
 echo "     |_|     |_| |_| |_|_____|_|  |_|_____| V1.2"|lolcat
-echo "     [Coded By (poison)  080HACKERS CEO]"|lolcat
+echo "     [Coded By (poison)  CAT-OF-TG]"|lolcat
 sleep 1.0
 echo ""
 echo "This Will Change Your Termux Home Theme Color To Look Aweasome"|lolcat
