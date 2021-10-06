@@ -4,13 +4,13 @@
 #If You Take Money For This Little Tool Bash Script Please Look At Your Self Again And Shame To Your
 clear
 echo ""
-echo " [SUBSCRIBE BAJE TECH YOUTUBE CHANNEL FOR MORE]"|lolcat
+echo " [SUBSCRIBE YOUTUBE CHANNEL FOR MORE NAME AREEELA]"|lolcat
 echo "    _____   _____ _   _ _____ __  __ _____"|lolcat
 echo "   |_   _| |_   _| | | | ____|  \/  | ____|"|lolcat
 echo "     | |_____| | | |_| |  _| | |\/| |  _|"  |lolcat
 echo "     | |_____| | |  _  | |___| |  | | |___" |lolcat
 echo "     |_|     |_| |_| |_|_____|_|  |_|_____| V1.2"|lolcat
-echo "     [Coded By (Baje Tech)  080HACKERS CEO]"|lolcat
+echo "     [Coded By (poison)  080HACKERS CEO]"|lolcat
 sleep 1.0
 echo ""
 echo "This Will Change Your Termux Home Theme Color To Look Aweasome"|lolcat
